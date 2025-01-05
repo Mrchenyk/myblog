@@ -1,6 +1,4 @@
-# 学习的代码地址
-
-<https://github.com/nathany/get-programming-with-go.git>
+# Go语言基础
 
 ## 函数
 

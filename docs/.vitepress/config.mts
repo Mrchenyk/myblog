@@ -38,7 +38,7 @@ const vitepressConfig = {
     nav: [
       { text: '🤡 关于我', link: '/' },
       { text: '😎 掘金', link: 'https://juejin.cn/user/4466629837071787' },
-      { text: '🤣 部落格', link: '/leetcode' },
+      
 
       { text: '👯‍♂️ 友链', link: 'todo.md' }
     ],
