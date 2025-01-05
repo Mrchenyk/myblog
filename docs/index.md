@@ -7,7 +7,7 @@ hero:
   text: "@我有&&症"
   # tagline: 记录学习心得、刷题经验、杂谈
   image:
-    src: /images/image.png
+    src: /image.png
     
   actions:
     - theme: brand

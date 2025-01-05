@@ -12,6 +12,7 @@ const vitepressConfig = {
   title: "我有&&症-blog",
   description: "A-Cool-Blog",
   lastUpdated: true,
+  srcDir: '../docs',
   themeConfig: {
     // sidebar: [
     //   {
@@ -31,7 +32,7 @@ const vitepressConfig = {
     //   }
     // ],
 
-    logo: '/images/image.png',
+    logo: '/image.png',
 
     siteTitle: 'welcome to my blog',
     // https://vitepress.dev/reference/default-theme-config
