@@ -5,9 +5,12 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "@huyikai/vitepress-helper": "^0.0.30",
     "vitepress": "^1.5.0"
   },
   "dependencies": {
-    "@remixicon/vue": "^4.6.0"
+    "@huyikai/local-cms": "^0.0.27",
+    "@remixicon/vue": "^4.6.0",
+    "vue": "^3.5.13"
   }
 }
