@@ -41,7 +41,7 @@ const vitepressConfig = {
       { text: '😎 掘金', link: 'https://juejin.cn/user/4466629837071787' },
       
 
-      { text: '👯‍♂️ 友链', link: 'todo.md' }
+      { text: '👯‍♂️ 友链', link: '/.vitepress/friends.md' }
     ],
 
 

@@ -1,10 +1,30 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { defineProps } from 'vue';
+
+// 定义 props
+const props = defineProps({
+  title: {
+    type: String,
+    required: true
+  }
+});
+</script>
 
 <template>
-    <div class="title">talk is cheap,show me the code</div>
+    <div class="container">
+        <div class="title">友情链接</div>
+    </div>
+
+    <h2></h2>
 </template>
 
 <style scoped>
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
 .title {
     font-size: 48px;
     line-height: 48px;
