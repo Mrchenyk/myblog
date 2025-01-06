@@ -17,6 +17,12 @@ interface Friend {
       title: "Alive~o.0",
       link: "https://alive0103.github.io/",
     },
+    {
+      avatar: "https://avatars.githubusercontent.com/u/51738302?v=4",
+      name: "Song Jiahao",
+      title: "JiahaoCodes",
+      link: "https://blog.songjiahao.com/",
+    }
 
   ];
   

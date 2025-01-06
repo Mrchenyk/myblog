@@ -23,5 +23,3 @@ features:
     details: 记录学习心得、刷题经验、杂谈
 
 ---
-
-<FreeStyle/>
